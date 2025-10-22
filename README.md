@@ -11,3 +11,4 @@ git push origin main  => push all files to github
 # Second change 
 
 git diff filename    => things changed x old version 
+git checkout filename    => get unmodified or latest from github
